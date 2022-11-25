@@ -1,5 +1,7 @@
 Name: Module 1 Challenge
 
-As a bootcamp student, I want to push code and simplify it so that I can build functional sites in the future.
-
 Description: Horiseon Website with functional links
+
+Contributors: Boot Camp Spot
+
+This website loads with working links in html, and the style sheet displays nicely on Chrome.
